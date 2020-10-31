@@ -16,3 +16,12 @@ def multiplication(a,b):
     :return:
     '''
     return a*b
+
+def division(a,b):
+    '''
+    Make the division between a and b
+    :param a: int or float
+    :param b: int or float
+    :return: a/b
+    '''
+    pass
