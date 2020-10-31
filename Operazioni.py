@@ -15,4 +15,4 @@ def multiplication(a,b):
     :param b:
     :return:
     '''
-    pass
+    return a*b
