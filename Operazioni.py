@@ -6,7 +6,7 @@ def sum(a,b):
     :param b: int or float
     :return: a +b
     '''
-    pass
+    return a+b
 
 def multiplication(a,b):
     '''
